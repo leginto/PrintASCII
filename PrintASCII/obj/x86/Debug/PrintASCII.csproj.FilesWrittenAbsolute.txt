@@ -1,0 +1,5 @@
+/home/sekhar/Documents/Csharp/PrintASCII/PrintASCII/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/sekhar/Documents/Csharp/PrintASCII/PrintASCII/bin/Debug/PrintASCII.exe.mdb
+/home/sekhar/Documents/Csharp/PrintASCII/PrintASCII/bin/Debug/PrintASCII.exe
+/home/sekhar/Documents/Csharp/PrintASCII/PrintASCII/obj/x86/Debug/PrintASCII.exe
+/home/sekhar/Documents/Csharp/PrintASCII/PrintASCII/obj/x86/Debug/PrintASCII.exe.mdb
